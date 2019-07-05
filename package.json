@@ -54,6 +54,7 @@
     "nocache": "2.1.0",
     "referrer-policy": "1.2.0",
     "x-xss-protection": "1.1.0"
+    "helmet": 0.0.0
   },
   "devDependencies": {
     "connect": "^3.7.0",
