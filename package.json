@@ -15,7 +15,8 @@
     "x-powered-by",
     "csp",
     "hsts",
-    "clickjack"
+    "clickjack",
+    "dependencies"
   ],
   "homepage": "https://helmetjs.github.io/",
   "bugs": {
